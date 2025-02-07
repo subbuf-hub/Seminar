@@ -1,3 +1,10 @@
+Для запуска необходимо
+1) В папке через терминал ввести команды
+   1.1) npm install
+   1.2) npm run server для запуска json server
+   1.3) npm run dev для запуска REACT
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
